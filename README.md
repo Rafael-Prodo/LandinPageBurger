@@ -56,4 +56,4 @@ Se você deseja contribuir para este projeto ou tem ideias para melhorias, sinta
 
 ## 🚀 Executar o projeto:
 
-(https://rafael-prodo.github.io/LandinPageBurger/)
+https://rafael-prodo.github.io/LandinPageBurger/
